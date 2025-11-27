@@ -1,4 +1,4 @@
-# EDA-on-Supply-Chain-Dataset
+# Operational KPI Analysis – Multi-Department Supply Chain Dataset 
 
 # 📦 Supply Chain & Sales Data Analysis
 
